@@ -20,3 +20,6 @@ https://github.com/Midwarts/kpl/blob/main/0529-0604.md#1745
 
 06.05-06.11楼跳转（配图待更新）：
 https://github.com/Midwarts/kpl/blob/main/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880605-0611%EF%BC%89.md
+
+06.12-06.18楼跳转：   
+https://github.com/Midwarts/kpl/blob/main/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880612-0618%EF%BC%89.md
