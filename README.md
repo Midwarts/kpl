@@ -38,4 +38,7 @@ https://github.com/mjado/cris78kaka/blob/cfaea999011bdab5b497e056f5b198489dfa78e
 
 
 07.17-07.23楼跳转：   
-https://github.com/mjado/cris78kaka/blob/a2e897968888ca65b73ea1bc5b40d44e336f36bb/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880717-0725%EF%BC%89%E4%B8%8B%E5%8D%8A%E5%9C%BA.md
+https://github.com/mjado/cris78kaka/blob/a2e897968888ca65b73ea1bc5b40d44e336f36bb/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880717-0725%EF%BC%89%E4%B8%8B%E5%8D%8A%E5%9C%BA.md   
+
+07.24-07.30楼跳转：   
+https://github.com/mjado/cris78kaka/blob/805ecde7cea0fc5ea5f04fb87c85331f6c806aed/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880724-0730%EF%BC%89%E4%B8%8B%E5%8D%8A%E5%9C%BA%20.md#_toc141788901
