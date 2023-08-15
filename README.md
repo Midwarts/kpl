@@ -45,3 +45,6 @@ https://github.com/mjado/cris78kaka/blob/805ecde7cea0fc5ea5f04fb87c85331f6c806ae
    
  07.31-08.06楼跳转：   
 https://github.com/mjado/cris78kaka/blob/fc59fb8be87167d0bf1819acaae6832c66d05c71/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880731-0806%EF%BC%89.md
+
+08.07—08.13楼跳转：   
+https://github.com/mjado/cris78kaka/blob/8fc6cb57625bdf7840e67f322b90798aa2c14dc2/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880807-0813%EF%BC%89.md
