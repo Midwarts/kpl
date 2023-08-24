@@ -10,6 +10,7 @@ https://github.com/Midwarts/kpl/blob/main/%E6%BE%84%E6%B8%85%E6%97%B6%E9%97%B4%E
 https://github.com/Midwarts/kpl/blob/main/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%88%E8%AF%95%E8%BF%90%E8%A1%8C%EF%BC%89.md
    
 05.15-05.21楼跳转：  
+
 https://github.com/Midwarts/kpl/blob/main/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880515-0521%EF%BC%89.md
 
 05.22-05.28楼跳转：  
@@ -48,3 +49,6 @@ https://github.com/mjado/cris78kaka/blob/fc59fb8be87167d0bf1819acaae6832c66d05c7
 
 08.07—08.13楼跳转：   
 https://github.com/mjado/cris78kaka/blob/8fc6cb57625bdf7840e67f322b90798aa2c14dc2/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880807-0813%EF%BC%89.md
+
+08.14-08.20楼跳转：  
+https://github.com/mjado/cris78kaka/blob/1738bde641d5d5a6f9f40061c82801a2167ccc3e/%E5%90%8C%E4%BA%BA%E5%88%9B%E4%BD%9C%EF%BC%880814-0820%EF%BC%89.md
